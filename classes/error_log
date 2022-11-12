@@ -1,0 +1,1 @@
+[06-Nov-2022 04:03:06 Asia/Dhaka] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home2/algoinspire/scbs.algoinspire.com/classes/Login.php on line 52
